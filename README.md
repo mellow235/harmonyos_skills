@@ -20,14 +20,14 @@ harmonyos-skill/
 ├── 12-Testing/              # 测试调试
 ├── 13-3D-Graphics/          # 3D图形渲染
 ├── 14-AI-Engine/            # AI引擎
-├── 15-Concurrency/          # 并发编程 ⭐新增
-├── 16-Runtime-and-GC/       # 运行时与GC ⭐新增
-├── 17-Native-Extension/     # 原生扩展 ⭐新增
-├── 18-Security/             # 代码安全 ⭐新增
-├── 19-Version-Differences/  # 版本差异 ⭐新增
-├── 20-Project-Engineering/  # 项目工程化 ⭐新增
-├── 21-App-Architecture/     # 应用架构 ⭐新增
-├── 22-Quality-Checklist/    # 质量检查 ⭐新增
+├── 15-Concurrency/          # 并发编程 
+├── 16-Runtime-and-GC/       # 运行时与GC 
+├── 17-Native-Extension/     # 原生扩展 
+├── 18-Security/             # 代码安全 
+├── 19-Version-Differences/  # 版本差异 
+├── 20-Project-Engineering/  # 项目工程化 
+├── 21-App-Architecture/     # 应用架构 
+├── 22-Quality-Checklist/    # 质量检查
 ├── examples/                # 完整示例项目
 ├── templates/               # 项目模板
 ├── QUICK-REFERENCE.md       # 快速参考
